@@ -50,8 +50,8 @@ const ServicesSection: React.FC = () => {
     },
     {
       icon: <Network size={36} className="text-cyan" />,
-      title: "Aluguel de Sala de Sinais Telegram",
-      link: "https://wa.link/1j6rut"
+      title: "Criar um projeto Customizado",
+      link: "https://wa.link/sc04hg"
     },
     {
       icon: <Code size={36} className="text-cyan" />,
