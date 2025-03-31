@@ -52,10 +52,19 @@ const Header: React.FC<HeaderProps> = ({ onScrollToSection }) => {
     >
       <div className="container-custom flex items-center justify-between h-12 md:h-14">
         
-        {/* Logo */}
-        <span className="font-bold text-base md:text-lg text-cyan transition-colors duration-300 hover:text-glow">
-          eugustabusiness
-        </span>
+   {/* Logo */}
+<span className="flex items-center">
+  {/* Miniatura */}
+  <img 
+    src="/images/logo.jpeg" 
+    alt="Miniatura" 
+    className="w-10 h-10 mr-2 rounded-full border-2 border-cyan-500 transition-all duration-300 hover:border-cyan-400"
+  />
+  <span className="font-bold text-base md:text-lg text-cyan transition-colors duration-300 hover:text-glow">
+    Gustavo Dev
+  </span>
+</span>
+
         
         {/* Desktop Navigation (Visible only on Desktop) */}
         <nav className="hidden md:flex items-center space-x-1">
