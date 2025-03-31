@@ -14,7 +14,7 @@ const AboutSection: React.FC = () => {
           <div className="relative group w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden">
             <Avatar className="w-full h-full border-4 border-cyan/100">
               <AvatarImage
-                src="/images/profile.png"
+                src="/images/profile.jpeg"
                 alt="Dev. Gustavo Business"
                 className="w-full h-full object-cover"
               />
@@ -31,7 +31,7 @@ const AboutSection: React.FC = () => {
         {/* Título "Dev. Gustavo Business" */}
         <FadeInText direction="right" className="mb-4">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-cyan">
-            Dev. Gustavo Business
+            Dev. Gustavo
           </h2>
         </FadeInText>
 
@@ -44,7 +44,6 @@ const AboutSection: React.FC = () => {
   </p>
   {/* Espaço de um dedo */}
   <p className="text-white/70 text-lg sm:text-base md:text-lg max-w-3xl mx-auto text-center mt-6">
-    Trabalho para entender as necessidades de cada cliente e oferecer soluções eficientes que garantem resultados de alta performance.
   </p>
 </FadeInText>
 
@@ -56,7 +55,7 @@ const AboutSection: React.FC = () => {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-cyan via-cyan-light to-cyan rounded-full animate-border-rotate"></div>
             <a 
-              href="https://www.instagram.com/eugustabusiness/" 
+              href="https://www.instagram.com/eugustadev/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="relative bg-dark-darker m-[2px] flex items-center justify-center w-12 h-12 rounded-full z-10"
@@ -69,7 +68,7 @@ const AboutSection: React.FC = () => {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-cyan via-cyan-light to-cyan rounded-full animate-border-rotate"></div>
             <a 
-              href="https://www.tiktok.com/@eugustabusiness" 
+              href="https://www.tiktok.com/@eugustadev" 
               target="_blank" 
               rel="noopener noreferrer"
               className="relative bg-dark-darker m-[2px] flex items-center justify-center w-12 h-12 rounded-full z-10"
