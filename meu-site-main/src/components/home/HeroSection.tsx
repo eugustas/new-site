@@ -1,5 +1,5 @@
 
-import React from 'react';
+//import React from 'react';
 import { Typewriter } from '@/components/ui/AnimatedText';
 import { ArrowRight, Bot } from 'lucide-react';
 
@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
         {/* Main Content */}
         <div className="flex flex-col items-center justify-center text-center">
           <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold mb-6 text-gradient"> 
-            Tenha sua sala de sinais no Telegram
+            Sala de Sinais para apostas na bet365
           </h1>
           
           {/* Added Bot Icon */}
@@ -39,18 +39,16 @@ const HeroSection: React.FC = () => {
 
           
           <p className="text-lg md:text-xl text-white/70 max-w-3xl mb-8 leading-relaxed">
-            Pare de depender de casas de aposta e tome controle total dos seus dados e da sua operação 
-            com uma sala de sinais própria, programável e personalizável. 
-            Seja o dono da sua operação de iGaming.
+            Sinais de Entradas Grátis, clique no botão abaixo.
           </p>
           
           <a 
-            href="https://wa.link/5w9eiw" 
+            href="https://t.me/+pjHeHAM5jnAzYThh" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2 animate-pulse-cyan"
           >
-            <span>Quero ter minha sala de sinais</span>
+            <span>Entrar no Canal</span>
             <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={18} />
           </a>
         </div>
@@ -63,3 +61,4 @@ const HeroSection: React.FC = () => {
 };
 
 export default HeroSection;
+
