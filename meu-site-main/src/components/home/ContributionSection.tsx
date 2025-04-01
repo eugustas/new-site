@@ -28,7 +28,7 @@ const ContributionSection: React.FC = () => {
       <div className="container-custom">
         <FadeInText className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-cyan">
-            Contribua
+            Contribuir
           </h2>
           <p className="text-white/70 text-lg max-w-3xl mx-auto">
             Faça uma doação, copie a chave abaixo e cole no seu banco. 
