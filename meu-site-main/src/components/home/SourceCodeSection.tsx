@@ -18,7 +18,7 @@ const SourceCodeSection: React.FC = () => {
         
         <FadeInText direction="up" delay={300} className="flex justify-center">
           <a 
-            href="https://pay.kirvano.com/122396bc-de02-4ba4-a193-1d2d0accf682" 
+            href="https://t.me/+13hfMNdYctI1ZTRh" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2"
