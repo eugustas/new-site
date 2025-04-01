@@ -49,7 +49,7 @@ const ServicesSection: React.FC = () => {
       link: "https://wa.link/bao7s1"
     },
     {
-icon: <span className="text-cyan" style={{ fontSize: '36px' }}>Texto</span>,
+icon: <Network size={36} className="text-cyan" />,
       title: "Criar, editar ou traduzir textos com qualidade e precisão.",
       link: "https://wa.link/ez475w"
     },
