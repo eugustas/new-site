@@ -45,18 +45,18 @@ const ServicesSection: React.FC = () => {
   const services = [
     {
       icon: <Bot size={36} className="text-cyan" />,
-      title: "Criação de Bots Telegram",
-      link: "https://wa.link/sclvo6"
+      title: "Design gráfico exclusivo para valorizar sua marca ou perfil.",
+      link: "https://wa.link/bao7s1"
     },
     {
-      icon: <Network size={36} className="text-cyan" />,
-      title: "Criar um projeto Customizado",
-      link: "https://wa.link/sc04hg"
+icon: <span className="text-cyan" style={{ fontSize: '36px' }}>Texto</span>,
+      title: "Criar, editar ou traduzir textos com qualidade e precisão.",
+      link: "https://wa.link/ez475w"
     },
     {
       icon: <Code size={36} className="text-cyan" />,
-      title: "Desenvolvimento de Soluções Web",
-      link: "https://wa.link/0mg49j"
+      title: "Personalizar um código de acordo com suas necessidades.",
+      link: "https://wa.link/penppx"
     }
   ];
 
