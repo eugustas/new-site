@@ -95,14 +95,14 @@ const Header: React.FC<HeaderProps> = ({ onScrollToSection }) => {
           ))}
         </nav>
         
-        {/* Mobile - "Contribua" Button beside the Logo */}
+        {/* Mobile - "Contribuir" Button beside the Logo */}
         <div className="md:hidden flex items-center space-x-4">
-          {/* "Contribua" button on mobile */}
+          {/* "Contribuir" button on mobile */}
           <button 
             onClick={() => handleNavItemClick('contribution')}
             className="text-sm text-cyan hover:text-glow py-1 px-4 bg-gray-700 rounded-md transition-colors duration-300"
           >
-            Contribua
+            Contribuir
           </button>
         </div>
       </div>
