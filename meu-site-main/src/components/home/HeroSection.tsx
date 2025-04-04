@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
         {/* Main Content */}
         <div className="flex flex-col items-center justify-center text-center">
           <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold mb-6 text-gradient"> 
-            Sala de Sinais para apostas na bet365
+            Sala de Sinais para Double da Blaze
           </h1>
           
           {/* Added Bot Icon */}
@@ -43,7 +43,7 @@ const HeroSection: React.FC = () => {
           </p>
           
           <a 
-            href="https://t.me/+pjHeHAM5jnAzYThh" 
+            href="https://t.me/+XGlaHEgSahswMWFh" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2 animate-pulse-cyan"
