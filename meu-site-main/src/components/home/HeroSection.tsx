@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
         {/* Main Content */}
         <div className="flex flex-col items-center justify-center text-center">
           <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold mb-6 text-gradient"> 
-            Sala de Sinais para Double da Blaze
+            Códigos-fonte e Cursos
           </h1>
           
           {/* Added Bot Icon */}
@@ -39,16 +39,16 @@ const HeroSection: React.FC = () => {
 
           
           <p className="text-lg md:text-xl text-white/70 max-w-3xl mb-8 leading-relaxed">
-            Sinais de Entradas Grátis, clique no botão abaixo.
+            Clique no botão abaixo para garantir o seu acesso.
           </p>
           
           <a 
-            href="https://t.me/+XGlaHEgSahswMWFh" 
+            href="linkbio.co/gustabusiness" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2 animate-pulse-cyan"
           >
-            <span>Entrar no Canal</span>
+            <span>Garantir Acesso</span>
             <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={18} />
           </a>
         </div>
