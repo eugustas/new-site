@@ -9,16 +9,16 @@ const SourceCodeSection: React.FC = () => {
       <div className="container-custom">
         <FadeInText className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-cyan">
-            Obter os códigos fontes
+            Sinais para a bet365
           </h2>
           <p className="text-white/70 text-lg max-w-3xl mx-auto">
-            Clique no botão abaixo
+            Sinais gratuitos. Clique no botão abaixo
           </p>
         </FadeInText>
         
         <FadeInText direction="up" delay={300} className="flex justify-center">
           <a 
-            href="https://t.me/+13hfMNdYctI1ZTRh" 
+            href="https://t.me/+pjHeHAM5jnAzYThh" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2"
