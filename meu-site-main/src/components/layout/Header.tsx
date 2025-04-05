@@ -37,7 +37,7 @@ const Header: React.FC<HeaderProps> = ({ onScrollToSection }) => {
   const navItems = [
     { id: 'home', label: 'Home' },
     { id: 'about', label: 'Sobre' },
-    { id: 'source-code', label: 'Códigos Fonte' },
+    { id: 'source-code', label: 'Bet365' },
     { id: 'services', label: 'Serviços' },
     { label: 'Contato', external: true, href: 'https://wa.link/a8lijs' },
     { id: 'contribution', label: 'Contribuir', highlight: true },
