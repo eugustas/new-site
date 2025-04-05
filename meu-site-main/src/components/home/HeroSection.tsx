@@ -43,7 +43,7 @@ const HeroSection: React.FC = () => {
           </p>
           
           <a 
-            href="linkbio.co/gustabusiness" 
+            href="https://linkbio.co/gustabusiness" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2 animate-pulse-cyan"
