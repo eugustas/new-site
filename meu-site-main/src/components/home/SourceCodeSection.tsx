@@ -23,7 +23,7 @@ const SourceCodeSection: React.FC = () => {
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2"
           >
-            <span>Obter códigos</span>
+            <span>Entrar no Canal BET365</span>
             <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={18} />
           </a>
         </FadeInText>
