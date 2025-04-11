@@ -18,12 +18,12 @@ const SourceCodeSection: React.FC = () => {
         
         <FadeInText direction="up" delay={300} className="flex justify-center">
           <a 
-            href="https://t.me/+pjHeHAM5jnAzYThh" 
+            href="https://chat.whatsapp.com/JZ35nmhsAfEIOuDKvPXj8B" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2"
           >
-            <span>Entrar no Canal BET365</span>
+            <span>Entrar no grupo NEWBET</span>
             <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={18} />
           </a>
         </FadeInText>
