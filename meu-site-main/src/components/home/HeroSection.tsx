@@ -48,7 +48,7 @@ const HeroSection: React.FC = () => {
             rel="noopener noreferrer"
             className="btn-primary group flex items-center gap-2 animate-pulse-cyan"
           >
-            <span>Garantir Acesso</span>
+            <span>Obter códigos fonte</span>
             <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={18} />
           </a>
         </div>
